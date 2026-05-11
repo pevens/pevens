@@ -16,6 +16,15 @@ I am a **Microbiology Lab Manager** and **Data Science Graduate Student** focuse
 
 ---
 
+### 💼 Featured Projects
+
+#### **Project Paperless | TCCA**
+*Lead Developer & Project Manager*
+* Architected a digital transformation strategy to migrate microbiology worksheets into a fully paperless environment.
+* Optimized **LabVantage LIMS** workflows to enhance data integrity and meet ISO 17025 compliance standards.
+* **Result:** Reduced physical documentation overhead by 100% and significantly improved data retrieval speeds for audit compliance.
+---
+
 ### 🛠 Tech Stack & Tools
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
