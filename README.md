@@ -29,7 +29,7 @@ I am a **Microbiology Lab Manager** and **Data Science Graduate Student** focuse
 ---
 
 ### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/skylar-peven/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skylar-peven/)
 
 - 🔭 **I’m currently working on:** Scaling data infrastructure for laboratory logistics.
 - 🌱 **I’m currently learning:** Advanced predictive modeling and distributed computing.
