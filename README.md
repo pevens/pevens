@@ -16,13 +16,24 @@ I am a **Microbiology Lab Manager** and **Data Science Graduate Student** focuse
 
 ---
 
-### 💼 Featured Projects
+### 💼 Work & Portfolio Projects
 
-#### **Project Paperless | TCCA**
-*Lead Developer & Project Manager*
-* Architected a digital transformation strategy to migrate microbiology worksheets into a fully paperless environment.
-* Optimized **LabVantage LIMS** workflows to enhance data integrity and meet ISO 17025 compliance standards.
-* **Result:** Reduced physical documentation overhead by 100% and significantly improved data retrieval speeds for audit compliance.
+#### **Featured Professional Project: Project Paperless**
+* **Role:** Lead Developer & Project Manager
+* **Impact:** Architected a strategy to eliminate physical worksheets for Salmonella and Listeria testing.
+* **Technical Implementation:** Optimized **LabVantage LIMS** workflows to ensure ISO 17025 compliance and 100% digital data integrity.
+
+#### **Data Science & Analytics Projects**
+* [cite_start]**Auto Loan Default Risk:** Developed a machine learning pipeline using credit scores and debt-to-income ratios to optimize lending decisions[cite: 5, 7, 8].
+* [cite_start]**Oregon Childcare Access:** Visualized the economic burden on families through an interactive Power BI dashboard and geospatial analysis[cite: 9, 11, 12].
+* [cite_start]**TSA Passenger Complaints:** Utilized NLP, sentiment analysis, and topic modeling to identify traveler pain points in airport security[cite: 14, 16, 17].
+* [cite_start]**Retail Time Series Modeling:** Engineered sales forecasting models using SARIMAX and Prophet to optimize inventory cycles[cite: 39, 41].
+* [cite_start]**Kia/Hyundai Car Theft Investigation:** Conducted targeted EDA into vehicle theft surges following manufacturing vulnerabilities[cite: 21, 23, 24].
+* [cite_start]**Optimizing MLB Attendance:** Used linear regression to analyze the impact of pricing and promotions on fan turnout[cite: 25, 27].
+* [cite_start]**Seoul Shadows Netflix Pitch:** Analyzed global streaming trends and viewership metrics for data-backed market research[cite: 28, 30].
+* [cite_start]**Surviving the Titanic:** Applied Random Forest and XGBoost to predict historical survival outcomes[cite: 32, 34].
+* [cite_start]**Personalized Movie Recommender:** Built a hybrid engine combining Collaborative and Content-Based Filtering[cite: 35, 37, 38].
+* [cite_start]**Never Play the Lottery:** A probabilistic simulation and deep-dive into expected value and statistical odds[cite: 18, 20].
 ---
 
 ### 🛠 Tech Stack & Tools
