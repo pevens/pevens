@@ -23,18 +23,18 @@ I am a **Microbiology Lab Manager** and **Data Science Graduate Student** focuse
 * **Impact:** Architected a strategy to eliminate physical worksheets for Salmonella and Listeria testing.
 * **Technical Implementation:** Optimized **LabVantage LIMS** workflows to ensure ISO 17025 compliance and 100% digital data integrity.
 
-#### **Data Science & Analytics Projects**
+### 📊 Data Science & Analytics Projects
 
-- 🚗 **[Auto-Loan-Default-Risk](/pevens/Auto-Loan-Default-Risk)** - Developed a machine learning pipeline using credit scores and debt-to-income ratios to optimize lending decisions.
-- ⚾ **[Optimizing-MLB-Attendance](/pevens/Optimizing-MLB-Attendance)** - Used linear regression to analyze the impact of pricing and promotions on fan turnout.
-- 🎬 **[Personalized-Movie-Recommender](/pevens/Personalized-Movie-Recommender)** - Built a hybrid engine combining Collaborative and Content-Based Filtering.
-- 📈 **[Retail-Time-Series-Modeling](/pevens/Retail-Time-Series-Modeling)** - Engineered sales forecasting models using SARIMAX and Prophet to optimize inventory cycles.
-- 🚢 **[Surviving-the-Titanic](/pevens/Surviving-the-Titanic)** - Applied Random Forest and XGBoost to predict historical survival outcomes.
-- 🍿 **[Seoul-Shadows-Netflix-Pitch](/pevens/Seoul-Shadows-Netflix-Pitch)** - Analyzed global streaming trends and viewership metrics for data-backed market research.
-- 🚘 **[Kia-Hyundai-Car-Theft-Investigation](/pevens/Kia-Hyundai-Car-Theft-Investigation)** - Conducted targeted EDA into vehicle theft surges following manufacturing vulnerabilities.
-- 🎲 **[Never-Play-the-Lottery](/pevens/Never-Play-the-Lottery)** - A probabilistic simulation and deep-dive into expected value and statistical odds.
-- 🛃 **[TSA-Passenger-Complaints](/pevens/TSA-Passenger-Complaints)** - Utilized NLP, sentiment analysis, and topic modeling to identify traveler pain points in airport security.
-- 🗺️ **[Oregon-Childcare-Access](/pevens/Oregon-Childcare-Access)** - Visualized the economic burden on families through an interactive Power BI dashboard and geospatial analysis.
+- 🚗 [Auto-Loan-Default-Risk](https://github.com/pevens/Auto-Loan-Default-Risk) - Developed a machine learning pipeline using credit scores and debt-to-income ratios to optimize lending decisions.
+- ⚾ [Optimizing-MLB-Attendance](https://github.com/pevens/Optimizing-MLB-Attendance) - Used linear regression to analyze the impact of pricing and promotions on fan turnout.
+- 🎬 [Personalized-Movie-Recommender](https://github.com/pevens/Personalized-Movie-Recommender) - Built a hybrid engine combining Collaborative and Content-Based Filtering.
+- 📈 [Retail-Time-Series-Modeling](https://github.com/pevens/Retail-Time-Series-Modeling) - Engineered sales forecasting models using SARIMAX and Prophet to optimize inventory cycles.
+- 🚢 [Surviving-the-Titanic](https://github.com/pevens/Surviving-the-Titanic) - Applied Random Forest and XGBoost to predict historical survival outcomes.
+- 🍿 [Seoul-Shadows-Netflix-Pitch](https://github.com/pevens/Seoul-Shadows-Netflix-Pitch) - Analyzed global streaming trends and viewership metrics for data-backed market research.
+- 🚘 [Kia-Hyundai-Car-Theft-Investigation](https://github.com/pevens/Kia-Hyundai-Car-Theft-Investigation) - Conducted targeted EDA into vehicle theft surges following manufacturing vulnerabilities.
+- 🎲 [Never-Play-the-Lottery](https://github.com/pevens/Never-Play-the-Lottery) - A probabilistic simulation and deep-dive into expected value and statistical odds.
+- 🛃 [TSA-Passenger-Complaints](https://github.com/pevens/TSA-Passenger-Complaints) - Utilized NLP, sentiment analysis, and topic modeling to identify traveler pain points in airport security.
+- 🗺️ [Oregon-Childcare-Access](https://github.com/pevens/Oregon-Childcare-Access) - Visualized the economic burden on families through an interactive Power BI dashboard and geospatial analysis.
 ---
 
 ### 🛠 Tech Stack & Tools
