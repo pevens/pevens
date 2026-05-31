@@ -5,7 +5,7 @@ I am a **Microbiology Lab Manager** and **Data Science Graduate Student** focuse
 ---
 
 ### 🧪 Professional Focus
-* **Laboratory Leadership:** Managing high-throughput microbiology operations in ISO 17025 accredited environments.
+* **Laboratory Leadership:** Managing high-throughput microbiology operations in ISO 17025-accredited environments.
 * **Project Paperless:** Implementing digital workflows and LIMS optimizations to eliminate physical worksheets and increase data integrity.
 * **Method Validation:** Expert in method validation and verification for microbiology laboratory applications.
 
@@ -24,16 +24,17 @@ I am a **Microbiology Lab Manager** and **Data Science Graduate Student** focuse
 * **Technical Implementation:** Optimized **LabVantage LIMS** workflows to ensure ISO 17025 compliance and 100% digital data integrity.
 
 #### **Data Science & Analytics Projects**
-* **Auto Loan Default Risk:** Developed a machine learning pipeline using credit scores and debt-to-income ratios to optimize lending decisions.
-* **Oregon Childcare Access:** Visualized the economic burden on families through an interactive Power BI dashboard and geospatial analysis.
-* **TSA Passenger Complaints:** Utilized NLP, sentiment analysis, and topic modeling to identify traveler pain points in airport security.
-* **Retail Time Series Modeling:** Engineered sales forecasting models using SARIMAX and Prophet to optimize inventory cycles.
-* **Kia/Hyundai Car Theft Investigation:** Conducted targeted EDA into vehicle theft surges following manufacturing vulnerabilities.
-* **Optimizing MLB Attendance:** Used linear regression to analyze the impact of pricing and promotions on fan turnout.
-* **Seoul Shadows Netflix Pitch:** Analyzed global streaming trends and viewership metrics for data-backed market research.
-* **Surviving the Titanic:** Applied Random Forest and XGBoost to predict historical survival outcomes.
-* **Personalized Movie Recommender:** Built a hybrid engine combining Collaborative and Content-Based Filtering.
-* **Never Play the Lottery:** A probabilistic simulation and deep-dive into expected value and statistical odds.
+
+- 🚗 **[Auto-Loan-Default-Risk](/pevens/Auto-Loan-Default-Risk)** - Developed a machine learning pipeline using credit scores and debt-to-income ratios to optimize lending decisions.
+- ⚾ **[Optimizing-MLB-Attendance](/pevens/Optimizing-MLB-Attendance)** - Used linear regression to analyze the impact of pricing and promotions on fan turnout.
+- 🎬 **[Personalized-Movie-Recommender](/pevens/Personalized-Movie-Recommender)** - Built a hybrid engine combining Collaborative and Content-Based Filtering.
+- 📈 **[Retail-Time-Series-Modeling](/pevens/Retail-Time-Series-Modeling)** - Engineered sales forecasting models using SARIMAX and Prophet to optimize inventory cycles.
+- 🚢 **[Surviving-the-Titanic](/pevens/Surviving-the-Titanic)** - Applied Random Forest and XGBoost to predict historical survival outcomes.
+- 🍿 **[Seoul-Shadows-Netflix-Pitch](/pevens/Seoul-Shadows-Netflix-Pitch)** - Analyzed global streaming trends and viewership metrics for data-backed market research.
+- 🚘 **[Kia-Hyundai-Car-Theft-Investigation](/pevens/Kia-Hyundai-Car-Theft-Investigation)** - Conducted targeted EDA into vehicle theft surges following manufacturing vulnerabilities.
+- 🎲 **[Never-Play-the-Lottery](/pevens/Never-Play-the-Lottery)** - A probabilistic simulation and deep-dive into expected value and statistical odds.
+- 🛃 **[TSA-Passenger-Complaints](/pevens/TSA-Passenger-Complaints)** - Utilized NLP, sentiment analysis, and topic modeling to identify traveler pain points in airport security.
+- 🗺️ **[Oregon-Childcare-Access](/pevens/Oregon-Childcare-Access)** - Visualized the economic burden on families through an interactive Power BI dashboard and geospatial analysis.
 ---
 
 ### 🛠 Tech Stack & Tools
